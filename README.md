@@ -1,18 +1,18 @@
 ## Table of Contents
 
-1. Installation
-2. Project Motivation
-3. File Description
-4. Results
-5. Licensing, Authors, and Acknowledgments
+1. [Installation](#motivation)
+2. [Project Motivation](#motivation)
+3. [File Description](#file)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgments](#licensing)
 
-## Installation
+## [Installation](#installation)
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 gcloud sdk [!gcloud SDK](https://cloud.google.com/sdk/install)
 
-## Project Motivation
+## [Project Motivation](#motivation)
 
 This is an Udacity Nanodegree project. I chose the Google Analytics Merchandise Store dataset.
 
@@ -24,15 +24,15 @@ My key interests would be:
 2. How are users and revenue distributed geographically?
 3. Can a user's revenue be predicted taking into account his previous user journey?
 
-## File Descriptions
+## [File Descriptions](#file)
 
 data.csv contains clickstream data on a session level including device, country, landing page, time on site etc.
 There is also a notebook available here to showcase the work related to my three questions.
 
-## Results
+## [Results](#results)
 
 The main findings of the analysis can be found in this [!medium blog post](medium.com)
 
-## Licensing, Authors, and Acknowledgments
+## [Licensing, Authors, and Acknowledgments](#licensing)
 
 For some code examples credit goes to Udacity. The licensing of the data can be found [!here](https://support.google.com/analytics/answer/7586738?hl=en). Otherwise, feel free to use the code as you like.
