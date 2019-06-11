@@ -32,7 +32,7 @@ There is also a notebook available here to showcase the work related to my three
 
 ## Results
 
-The main findings of the analysis can be found in this [!medium blog post](https://medium.com/p/7207ca8d865/edit)
+The main findings of the analysis can be found in this [!medium blog post](https://medium.com/@gunnargriese/predicting-google-analytics-merchandise-stores-sales-analysis-of-google-analytics-data-7207ca8d865?postPublishedType=initial)
 
 ## Licensing, Authors, and Acknowledgments
 
